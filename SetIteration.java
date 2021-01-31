@@ -18,6 +18,7 @@ public class SetIteration {
         }
 
         System.out.println("+++++++++++");
+        
 
         // convert Set to ArrayList
         ArrayList<String> animalsList = new ArrayList<String>(animalsSet);
